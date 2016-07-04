@@ -1,8 +1,8 @@
-/***************************************************************
-* Author : Anik Iqbal                                          *
-* Date   : July 4 , 2016                                       *
-* Mood   : Annoyed                                             *
-****************************************************************/
+
+* Author : Anik Iqbal                                          
+* Date   : July 4 , 2016                                       
+* Mood   : Annoyed                                             
+
 
 But this is my personal stuff , why do I need a README.md file ?
 
